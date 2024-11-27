@@ -1,0 +1,13 @@
+instances and deployment
+
+go to ec2
+  go to instances
+  create new instance
+  launch the instance
+    fill in the necessary details
+    select an os
+    instance type selection
+    add security key-pair
+    add network settings
+
+  fill the instance after launch
