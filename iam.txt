@@ -1,0 +1,11 @@
+IAM
+
+IAM Dashboard
+ click users
+  fill the username and password
+  set permissions
+  review and create
+
+s3 bucket creation
+  give the name and all the neccessary settings
+  then add people to  the users and allow and deny users for the bucket using in the IAM dashboard
