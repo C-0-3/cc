@@ -1,0 +1,10 @@
+> sudo -i
+> yum install httpd-y
+> wget http://www.tooplate.com/download/2135_mini_finance
+> mv 2135_mini_finance 2135_mini_finance_backup
+> ls
+> cp -r 2135_mini_finance_backup /var/www/html
+> ls
+> systemctl enable httpd
+> systemctl start httpd
+> the copy the publicip and past it in the new tab
