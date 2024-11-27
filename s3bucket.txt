@@ -1,0 +1,10 @@
+go to S3
+
+search buckets
+  create bucket
+    fill all the necessary details
+    give the necessary permissions
+    add encryption
+
+  upload things to the bucket
+    upload necessary files
